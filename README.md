@@ -17,7 +17,8 @@ The project was motivated by the UFC being one of the least efficiently priced s
 
 ---
 ## Interactive website
-https://github.com/user-attachments/assets/your-file-link-here
+
+https://raw.githubusercontent.com/raykurhasaj12/UFC-Fight-Outcome-Predictor/main/Screen%20recording%20of%20interactive%20website.mp4
 ## Project Structure
 
 ```
