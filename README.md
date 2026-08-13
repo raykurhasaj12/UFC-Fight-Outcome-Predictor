@@ -14,7 +14,8 @@ This project builds a machine learning system to predict UFC fight outcomes and 
 The project was motivated by the UFC being one of the least efficiently priced sports markets, due to its relatively small betting volume compared to football or NFL. This creates opportunities for a well-calibrated model to find edges that bookmakers may underestimate.
 
 ---
-
+## Interactive website
+https://github.com/user-attachments/assets/your-file-link-here
 ## Project Structure
 
 ```
